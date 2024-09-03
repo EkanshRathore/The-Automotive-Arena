@@ -15,7 +15,7 @@ This is Website Created To buy or Sell Cars Using Python Django
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/profile.png" alt="feed example" width="400">
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/login.png" alt="feed example" width="400">
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/landing%20page.png" alt="feed example" width="400">
-<img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/listing%20cards.png)" alt="feed example" width="400">
+<img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/listing%20cards.png" alt="feed example" width="400">
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/listing.png" alt="feed example" width="400">
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/homepage.png" alt="feed example" width="400">
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/register.png" alt="feed example" width="400">
