@@ -27,4 +27,3 @@
 
 ---
 
-#### Credit Goes to - Udemy Course - "https://www.udemy.com/course/python-django-the-complete-django-web-development-course"
