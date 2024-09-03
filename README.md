@@ -22,6 +22,7 @@
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/listing.png" alt="feed example" width="400">
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/homepage.png" alt="feed example" width="400">
 <img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/register.png" alt="feed example" width="400">
+<img src="https://github.com/EkanshRathore/The-Automotive-Arena/blob/main/Preview/List%20View.png" alt="feed example" width="400">
 </div>
 </p>
 
